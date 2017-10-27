@@ -1,0 +1,3 @@
+[submodule "rirc-server"]
+	path = rirc-server
+	url = git@github.com:jjwest/rirc.git

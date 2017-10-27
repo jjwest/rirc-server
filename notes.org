@@ -1,0 +1,10 @@
+* Server notes
+- Name (max 63 characters)
+
+
+* Clients
+- Must store unique id and server it is connected to
+
+* Users
+- Unique nickname (max 9 characters)
+- Must store: name of the host, username of the host, server to which it is connected.
